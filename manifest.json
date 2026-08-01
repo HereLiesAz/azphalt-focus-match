@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Blurs the caption exactly as much as the part of the shot it sits over, so the text falls in and out of focus with the plate.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
